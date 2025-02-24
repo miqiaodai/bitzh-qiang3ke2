@@ -6,3 +6,7 @@
 |-|-|-|-|
 |classid|int|202420252000000|前9位为开课学年及学期|
 |cookie|str|JSESSIONID=; JSESSIONID=||
+
+# 运行环境
+Python3.11
+jupyter-notebook6.4.8
